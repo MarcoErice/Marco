@@ -1,0 +1,25 @@
+.marco-boxheight {
+    min-height: 92px;
+}
+
+.panel {
+    border: 1px solid black;
+}
+
+.marco-marginTop {
+    margin-top: 20px;
+}
+
+ .carousel-inner > .item > img,
+        .carousel-inner > .item > a > img {
+            width: 50%;
+            margin: auto;
+        }
+
+.marco-marginBottom {
+    margin-bottom: 20px;
+}
+
+.marco-clearLeft {
+    clear: left;
+}
